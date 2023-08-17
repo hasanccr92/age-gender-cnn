@@ -1,5 +1,10 @@
-# age-gender prediction model using cnn
+# age-gender prediction model using CNN
+Update- This was done for a competition; fortunately, we secured the second runner-up position.
+details- 
+1. https://www.thedailystar.net/campus/campus/news/megamind-tech-hosts-ai-contest-3378996
+2. https://www.prothomalo.com/technology/tf3jyj9e3w
 
+#########################
 Age training data-UTKFace
 Gender Training data - https://drive.google.com/drive/folders/1QpYPpFLp0SCrj6cQsbebxg0ELX-KLrne?usp=drive_link
 
